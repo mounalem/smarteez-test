@@ -11,3 +11,217 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar.transparent {
+  background: rgba(98, 147, 192, 0.4);
+}
+
+.mysearchbutton {
+  background-color: white;
+  margin-left: 10px;
+
+}
+
+.navbar-nav{
+margin-left: 900px;
+}
+
+.navbar {
+  background-color: transparent;
+  background: transparent;
+  border-color: transparent;
+}
+
+.nav-item > .nav-link {
+  color:white;
+}
+
+.mynavtop h1{
+color:white;
+}
+
+.mynavtop p{
+  color:white;
+  }
+
+.mydescription{
+  margin-left: 90px;
+  margin-right: 700px;
+  margin-top: 150px;
+
+}
+
+.mydescriptionbutton{
+  color:white;
+background-color: blue;
+}
+
+.mynavtop{
+  max-width: 100%;
+    max-height: 100%;
+    background-size:100% 100%;
+}
+
+nav{
+  background-color: aqua;
+}
+
+.mynav{
+height:80px;
+}
+
+.myabout{
+  border-bottom: 2px solid white;
+
+}
+
+.missionleft{
+  margin-left: auto;
+  margin-right: 600px;
+  margin-top:100px;
+  float:left;
+  background-color: black;
+  margin-top:0px;
+  padding-top: 0px;
+}
+
+.missionright{
+  margin-right: auto;
+  margin-left: 500px;
+  margin-top:100px;
+  float:right;
+  background-color: black;
+  vertical-align: top;
+  margin-top:0px;
+  padding-top: 0px;
+
+}
+
+.mywebpage{
+  height:1200px;
+}
+
+.mymission{
+  display: inline-block;
+}
+
+.mygreybackground{
+  width:130%;
+  margin-left: -130px;
+}
+
+.mymissionimg{
+  margin-top: 100px;
+  width:350px;
+  margin-bottom: 50px;
+}
+
+.mymissiontext{
+  margin-top: 100px;
+  width:200px;
+}
+
+.mymissiontext  > h1{
+  margin-left: 0px;
+}
+
+.card{
+  width:250px;
+  margin-right: 20px;
+  padding-bottom: 50px;
+  background-color: #CBECEE;
+  border:none;
+}
+
+.jon{
+  width:250px;
+  margin-right: 20px;
+  padding-bottom: 50px;
+  border-color: #065DF7;
+  background-color: white;
+  border-radius: 25px;
+  border-style: solid;
+  border-width:1px;
+
+}
+
+.card img{
+  width:200px;
+  margin-left: 20px;
+  margin-top: 25px;
+
+  
+}
+
+.social{
+  margin-left: 50px;
+}
+
+.social img{
+  width:30px;
+}
+
+.container2 {
+margin-bottom: 0px;
+}
+
+
+.container2 .container{
+  padding-bottom: 100px;
+  margin-bottom: 0px;
+  }
+
+.leaderstext h1{
+  padding-top: 50px;
+color: #065DF7;
+}
+
+.leaderstext p{
+  padding-bottom: 50px;
+
+}
+
+.viewteam{
+  background-color: #065DF7;
+  border-color: #065DF7;
+  color: white;
+  margin-bottom: 100px;
+}
+
+.myfooter{
+  margin-bottom: 0;
+  background-color: #065DF7;
+  margin-top: 0px;
+
+}
+
+.myfooter a{
+  color: white;
+  margin-left: 30px;
+
+}
+
+.myfooterlinks{
+  padding-top: 20px;
+margin-left:500px;
+
+}
+
+.joinus p{
+  color:white;
+  margin-bottom: 0;
+}
+
+.sf img{
+  width:10px;
+}
+
+.sf{
+  margin-right: -30px;
+}
+
+.sfl{
+  padding-top:-30px;
+  margin-left:100px;
+  padding-bottom:30px;
+}
